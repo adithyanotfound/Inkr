@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://inkr.adithyav102.workers.dev";
